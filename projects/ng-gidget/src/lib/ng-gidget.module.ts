@@ -1,10 +1,8 @@
 import { NgModule } from '@angular/core';
-import { NgGidgetComponent } from './ng-gidget.component';
 
 @NgModule({
-  declarations: [NgGidgetComponent],
-  imports: [
-  ],
-  exports: [NgGidgetComponent]
+    declarations: [],
+    exports: [],
+    imports: []
 })
 export class NgGidgetModule { }
