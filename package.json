@@ -6,10 +6,11 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
+    "test-ci": "ng test --code-coverage --watch=false",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~7.2.0",
     "@angular/common": "~7.2.0",
