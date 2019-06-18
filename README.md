@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/jscharett/ng-gidget.svg?branch=master)](https://travis-ci.org/jscharett/ng-gidget)
+[![codecov](https://codecov.io/gh/jscharett/ng-gidget/branch/master/graph/badge.svg)](https://codecov.io/gh/jscharett/ng-gidget)
+[![Dependencies](https://david-dm.org/jscharett/ng-gidget.svg)](https://david-dm.org/jscharett/ng-gidget)
+[![devDependencies](https://david-dm.org/jscharett/ng-gidget/dev-status.svg)](https://david-dm.org/jscharett/ng-gidget?type=dev)
+
 # NgGidget
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
